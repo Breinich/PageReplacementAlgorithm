@@ -1,6 +1,4 @@
 # PageReplacementAlgorithm
-Create a program in Java or Python that simulates the operation of a page replacement system!  
-
 As input to the program, it receives the identifiers of pages referenced during memory operations in the order of their reference. As output, it returns the identifiers of the physical memory frames allocated as a result of the performed page swaps and the number of page faults.  
 
 There are 3 memory frames in the system, all of which are initially empty. At departure, the sheets are located at the exchange point.  
